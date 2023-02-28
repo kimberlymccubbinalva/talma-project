@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Database Authenticate</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e5899c44-c777-465b-9d9b-e2de5da091e9</dataFileGUID>
+   <dataSourceUrl>C:\Users\Kimberly Mc Cubbin\iCloudDrive\QA Documents\Proyectos personales\PROGREZ\Proyecto TALMA\Database - Authentication.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Authentication</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

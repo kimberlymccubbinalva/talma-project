@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Call - Logout Passes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba31f59d-ba23-49b2-b077-ac474250567b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>764cfec8-c81f-4ea3-bd72-a55fb7be9398</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>764cfec8-c81f-4ea3-bd72-a55fb7be9398</id>
+      <masked>false</masked>
+      <name>UserEmail</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Call - Open Tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f342083-bc68-42ff-a400-47a066037f00</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9256c207-90ad-4d4f-80fb-d141c5e13ccf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9256c207-90ad-4d4f-80fb-d141c5e13ccf</id>
+      <masked>false</masked>
+      <name>Path</name>
+   </variable>
+</TestCaseEntity>

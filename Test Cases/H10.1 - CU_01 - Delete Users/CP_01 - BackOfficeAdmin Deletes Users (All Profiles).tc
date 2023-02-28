@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_01 - BackOfficeAdmin Deletes Users (All Profiles)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63b157a0-53ea-4b50-adfb-c701adfb9853</testCaseGuid>
+</TestCaseEntity>

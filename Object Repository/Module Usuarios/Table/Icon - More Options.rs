@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon - More Options</name>
+   <tag></tag>
+   <elementGuidId>2c3c92b3-bb1d-4fc3-b8d9-c5895df2a508</elementGuidId>
+   <imagePath>(//img[@src='/assets/icon_more.09d2100f.svg'])[1]</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>(//img[@src='/assets/icon_more.09d2100f.svg'])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@aria-label='more'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[@aria-label='more'])[2]</value>
+      <webElementGuid>883d21a2-062c-4429-a493-a00f3920a026</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

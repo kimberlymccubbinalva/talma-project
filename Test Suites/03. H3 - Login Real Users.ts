@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>03. H3 - Login Real Users</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>kimberly.mccubbinalva@gmail.com;kmccubbin@progrez.pe;</mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1d8890fc-ed3b-4355-af8c-f17f98757c3b</testSuiteGuid>
+   <testCaseLink>
+      <guid>5cba48cd-940b-4249-bd14-450c1eb77fa1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/H03.1 - CU_04 - Login Inserted Clients/CP_036 - CP_044 - Login Client Users Inserted</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>771ff747-ea4e-4fb8-a0a4-2ae18baa4d3d</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>13-24</value>
+         </iterationEntity>
+         <testDataId>Data Files/Database Authenticate</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>771ff747-ea4e-4fb8-a0a4-2ae18baa4d3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Correo</value>
+         <variableId>f1f833db-ba1b-4ceb-8a3c-bf1124ac6d76</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>771ff747-ea4e-4fb8-a0a4-2ae18baa4d3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>b31fa4c1-cc03-4c78-aed5-3b97a9d0a9e6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f25e5352-a4df-4e8e-9a1c-2d0104edf896</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/H03.2 - CU_05 - Login Inserted BackOffice/CP_045 - CP_047 - Login BackOffice Users Inserted</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d74f4fb2-9dd4-47dc-a0d4-1a455762790e</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>10-12</value>
+         </iterationEntity>
+         <testDataId>Data Files/Database Authenticate</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d74f4fb2-9dd4-47dc-a0d4-1a455762790e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Correo</value>
+         <variableId>793fff4d-4312-4775-8d14-996d4ce689c3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d74f4fb2-9dd4-47dc-a0d4-1a455762790e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contraseña</value>
+         <variableId>088db0f6-b80b-400b-98c8-3d916a6af872</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

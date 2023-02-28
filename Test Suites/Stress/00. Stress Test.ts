@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>00. Stress Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>kimberly.mccubbinalva@gmail.com;kmccubbin@progrez.pe;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>421e4cd3-5ef8-426f-9d5f-bfbd6e722725</testSuiteGuid>
+   <testCaseLink>
+      <guid>889c1777-a2f6-4f63-94a7-975b8cb6b1f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Stress Cases/Stress - Create 100 Users</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>691f4658-797d-4e53-bbee-7fd45d2565ec</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Database Create Users</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>691f4658-797d-4e53-bbee-7fd45d2565ec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RUC</value>
+         <variableId>6b356895-b9ff-471a-a2a0-7790b4f6b726</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>691f4658-797d-4e53-bbee-7fd45d2565ec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NombreApellido</value>
+         <variableId>81a7f94e-6eb5-4a8d-b1e8-1de1798c8b18</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>691f4658-797d-4e53-bbee-7fd45d2565ec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NroDocumento</value>
+         <variableId>bf88bafb-fe59-4641-ae77-0f55bcdea698</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>691f4658-797d-4e53-bbee-7fd45d2565ec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Correo</value>
+         <variableId>c899c4ef-a1b1-4252-8894-a8889941e67b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>691f4658-797d-4e53-bbee-7fd45d2565ec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Celular</value>
+         <variableId>a2184553-3631-4fef-b4c6-53a4da013969</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>691f4658-797d-4e53-bbee-7fd45d2565ec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Cargo</value>
+         <variableId>50e61ebe-cb2e-4d68-b201-dcbc77882915</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f7be07b3-1c33-449c-b36f-f16527de7f8f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Stress Cases/Stress - Login 100 Users</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f7b9ad62-ff04-4010-841a-7ee5f133716f</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-12</value>
+         </iterationEntity>
+         <testDataId>Data Files/Database Authenticate</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f7b9ad62-ff04-4010-841a-7ee5f133716f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Correo</value>
+         <variableId>533fadcd-e0ef-4cb0-be6b-789ac8e1bc31</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

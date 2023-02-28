@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_020 - Login GHAAdmin Fails Deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>349787b9-52b5-4e93-8067-c3471d03c44d</testCaseGuid>
+</TestCaseEntity>

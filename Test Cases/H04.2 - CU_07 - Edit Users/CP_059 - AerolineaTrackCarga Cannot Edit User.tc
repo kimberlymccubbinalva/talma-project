@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_059 - AerolineaTrackCarga Cannot Edit User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>614b5881-532e-4f4c-b0d9-22cdd9bb373e</testCaseGuid>
+</TestCaseEntity>

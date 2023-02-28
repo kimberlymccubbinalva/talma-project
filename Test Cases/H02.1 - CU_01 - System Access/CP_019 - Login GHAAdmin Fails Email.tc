@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_019 - Login GHAAdmin Fails Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>555c3653-ac84-414f-9d17-d14ce04a2741</testCaseGuid>
+</TestCaseEntity>

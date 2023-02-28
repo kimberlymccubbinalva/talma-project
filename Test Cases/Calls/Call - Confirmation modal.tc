@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Call - Confirmation modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91277af8-5ee7-4d6c-a410-56a8d1dee59a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d07f792e-0d57-450f-ba88-4b0eb8bf1564</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>d07f792e-0d57-450f-ba88-4b0eb8bf1564</id>
+      <masked>false</masked>
+      <name>testObject</name>
+   </variable>
+</TestCaseEntity>

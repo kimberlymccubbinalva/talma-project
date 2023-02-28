@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_026 - Login AgenteAdmin Fails Deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b926cc44-5be1-47ec-ac5e-4413d7e98a3a</testCaseGuid>
+</TestCaseEntity>

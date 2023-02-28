@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_065 - AgenteTrackCarga Cannot Edit User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a04271b7-1736-4b6a-8f40-5c6d642e5944</testCaseGuid>
+</TestCaseEntity>

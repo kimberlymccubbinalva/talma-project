@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_069 - AerolineaTrackCarga Search Exportation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1409a3ee-42a1-48e4-af93-ed846d619a49</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f8085ff-7c56-4a42-8385-36e47c0cdb78</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Module Exportaciones/Filters/Input - Estado Inventario')</defaultValue>
+      <description></description>
+      <id>4f8085ff-7c56-4a42-8385-36e47c0cdb78</id>
+      <masked>false</masked>
+      <name>EstadoObject</name>
+   </variable>
+</TestCaseEntity>

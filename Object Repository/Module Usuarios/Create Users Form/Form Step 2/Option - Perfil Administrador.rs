@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Option - Perfil Administrador</name>
+   <tag></tag>
+   <elementGuidId>e47f6232-a5d5-459d-9651-5563cc1049c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[(text() = 'Administrador' or . = 'Administrador')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-16-option-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a520ad69-dc66-41c4-925a-32192b77504a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-d7l1ni-option</value>
+      <webElementGuid>c823c6c5-b324-43ca-ad43-7cf7eecb891e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>13798795-7a6f-4448-b82d-06210684bb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-16-option-1</value>
+      <webElementGuid>8b6c79f5-9d7a-4d0d-95a8-cef64efb4827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>ac8d15a7-1f5c-44f3-ba32-116cec678e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administrador</value>
+      <webElementGuid>266b0d4b-a9da-4aa0-ad73-efd3b1002028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-16-option-1&quot;)</value>
+      <webElementGuid>efc2c8a7-fcaf-4ad4-a63b-97bc8b2a8dce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

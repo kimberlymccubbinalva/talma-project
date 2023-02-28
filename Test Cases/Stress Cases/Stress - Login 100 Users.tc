@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Stress - Login 100 Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c08d2ca8-8bda-40a4-8367-a192beda7aa7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>533fadcd-e0ef-4cb0-be6b-789ac8e1bc31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>533fadcd-e0ef-4cb0-be6b-789ac8e1bc31</id>
+      <masked>false</masked>
+      <name>Correo</name>
+   </variable>
+</TestCaseEntity>

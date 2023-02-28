@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Call - Login Passes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c8746cf-eba6-4863-84ab-70795771c224</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21dbdee2-c73b-49bb-96ed-517fcedea988</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21dbdee2-c73b-49bb-96ed-517fcedea988</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

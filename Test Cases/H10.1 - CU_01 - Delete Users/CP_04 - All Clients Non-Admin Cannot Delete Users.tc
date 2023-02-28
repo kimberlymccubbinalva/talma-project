@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CP_04 - All Clients Non-Admin Cannot Delete Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c778eff9-dfdc-430d-b5fb-498f2b9b0cd1</testCaseGuid>
+</TestCaseEntity>
